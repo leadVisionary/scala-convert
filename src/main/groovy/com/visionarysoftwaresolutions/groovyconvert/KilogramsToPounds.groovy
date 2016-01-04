@@ -1,4 +1,4 @@
-package com.visionarysoftwaresolutions.scalaconvert
+package com.visionarysoftwaresolutions.groovyconvert
 
 class KilogramsToPounds implements Visitor<Kilograms> {
     Pounds calculated

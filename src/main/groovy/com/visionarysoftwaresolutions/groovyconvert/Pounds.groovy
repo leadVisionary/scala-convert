@@ -1,9 +1,9 @@
-package com.visionarysoftwaresolutions.scalaconvert
+package com.visionarysoftwaresolutions.groovyconvert
 
 import groovy.transform.Immutable
 
 @Immutable
-class Kilograms implements JavaMeasurable {
+class Pounds implements JavaMeasurable {
     BigDecimal value
 
     @Override

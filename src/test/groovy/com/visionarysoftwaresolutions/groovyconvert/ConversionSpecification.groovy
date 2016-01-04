@@ -1,4 +1,4 @@
-package com.visionarysoftwaresolutions.scalaconvert
+package com.visionarysoftwaresolutions.groovyconvert
 
 import java.math.MathContext
 
